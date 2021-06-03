@@ -1,0 +1,227 @@
+body {
+    margin: 0;
+}
+
+* {
+    background: black;
+    color: white;
+}
+
+#content {
+    margin: 20px auto;
+    max-width: 900px;
+    width: 80%;
+}
+
+.containers {
+    padding: 20px;
+    margin: 0 10px 20px;
+    clear: both;
+    background: #e84a5f;
+    border-radius: 5px;
+}
+
+#top {
+    max-width: 900px;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+h1 {
+    border-radius: 5px;
+    background: #2f797d;
+    text-align: center;
+    padding: 5px;
+}
+
+.inner-box {
+    margin: 0 10px 0 10px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+h2 {
+    border-radius: 3px;
+}
+
+
+/* div containig images float  */
+
+.box1 {
+    float: left;
+}
+
+.box2 {
+    float: right;
+}
+
+.box3 {
+    float: left;
+}
+
+.box4 {
+    float: right;
+}
+
+.box5 {
+    float: left;
+}
+
+
+/* image sizing */
+
+img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+/* floating span inside h2 */
+
+.jeff {
+    float: right;
+    margin-right: 10px;
+}
+
+.elon {
+    float: right;
+    margin-right: 10px;
+}
+
+.bernard {
+    float: right;
+    margin-right: 10px;
+}
+
+.bill {
+    float: right;
+    margin-right: 10px;
+}
+
+.mark {
+    float: right;
+    margin-right: 10px;
+}
+
+
+/* amazon background color */
+
+
+/* jeff bezos */
+
+#Amazon {
+    background: #ff9900;
+    color: white;
+}
+
+#Amazon h2,
+span {
+    background: #232f3e;
+    color: white;
+}
+
+#Amazon span {
+    background: #232f3e;
+    color: white;
+}
+
+
+/* tesla background color */
+
+
+/* elon musk */
+
+#tesla {
+    background: #cc0000;
+    color: white;
+}
+
+#tesla h2,
+span {
+    background: #333333;
+    color: white;
+}
+
+#tesla span {
+    background: #333333;
+    color: white;
+}
+
+
+/* .bernard  LVMH  background color */
+
+
+/* bernard arnault */
+
+#bernard {
+    background: #224a3d;
+    color: white;
+}
+
+#bernard h2,
+span {
+    background: #8d7c71;
+    color: white;
+}
+
+#bernard span {
+    background: #8d7c71;
+    color: white;
+}
+
+
+/*  microsoft background color */
+
+
+/* bill gates */
+
+#microsoft {
+    background: #f34f1c;
+    color: white;
+}
+
+#microsoft h2,
+span {
+    background: #747474;
+    color: white;
+}
+
+#microsoft span {
+    background: #747474;
+    color: white;
+}
+
+
+/*  facebook background color */
+
+
+/* mark zuckerberg */
+
+#facebook {
+    background: #3b5998;
+    color: white;
+}
+
+#facebook h2,
+span {
+    background: #898f9c;
+    color: white;
+}
+
+#facebook span {
+    background: #898f9c;
+    color: white;
+}
+
+marquee {
+    margin: 20px;
+    background: #2f797d;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+a {
+    background: transparent;
+}
